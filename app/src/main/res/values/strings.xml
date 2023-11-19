@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android Unit &amp; Integration Test</string>
+    <string name="loginForm">Login Form</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="invalid_email_message">Invalid Email Address</string>
+    <string name="invalid_password_message">Invalid Password</string>
+</resources>
